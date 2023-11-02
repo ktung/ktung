@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6521f5c891798c250de8e5a5?variant=dark&roadmaps=kubernetes%2Cdevops%2Cbackend%2Csoftware-architect)](https://roadmap.sh)
+
 <!--
 **ktung/ktung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
